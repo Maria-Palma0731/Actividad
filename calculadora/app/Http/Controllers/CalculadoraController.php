@@ -18,6 +18,9 @@ class CalculadoraController extends Controller
             switch ($op) {
                 case 'suma': $resultado = $a + $b; break;
                 case 'resta': $resultado = $a - $b; break;
+                case 'multiplicacion': $resultado = $a * $b; break;
+                case 'division': $resultado = $b != 0 ? $a / $b : 'Error'; break;
+                default: $resultado = 'Operación inválida';
 
             }
         }
