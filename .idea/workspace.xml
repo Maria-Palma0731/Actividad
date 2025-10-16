@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="afb4c9bf-764c-4c22-a3af-12b050118f31" name="Changes" comment="" />
+    <list default="true" id="afb4c9bf-764c-4c22-a3af-12b050118f31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadora/app/Http/Controllers/CalculadoraController.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora/app/Http/Controllers/CalculadoraController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadora/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,20 +19,25 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Maria-Palma0731"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Maria-Palma0731&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Maria-Palma0731/Actividad.git",
-    "accountId": "6389d4fe-15e9-48f5-842c-510a0e50aad2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Maria-Palma0731/Actividad.git&quot;,
+    &quot;accountId&quot;: &quot;6389d4fe-15e9-48f5-842c-510a0e50aad2&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../bin/php/php-8.3.16-Win32-vs16-x64/php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/calculadora/vendor/symfony/http-foundation" />
@@ -143,9 +155,9 @@
       <path value="$PROJECT_DIR$/calculadora/vendor/symfony/polyfill-intl-idn" />
     </include_path>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="347PT5PfIRtNXHecZicVAnaTK5C" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -155,8 +167,14 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "Develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -182,10 +200,26 @@
       <option name="presentableId" value="Default" />
       <updated>1760561641749</updated>
       <workItem from="1760561642992" duration="42000" />
+      <workItem from="1760571389556" duration="1041000" />
+      <workItem from="1760574001784" duration="120000" />
+      <workItem from="1760574146380" duration="566000" />
+      <workItem from="1760576042330" duration="120000" />
+      <workItem from="1760653053234" duration="2671000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

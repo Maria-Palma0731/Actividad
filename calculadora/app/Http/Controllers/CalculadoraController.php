@@ -21,7 +21,6 @@ class CalculadoraController extends Controller
                 case 'multiplicacion': $resultado = $a * $b; break;
                 case 'division': $resultado = $b != 0 ? $a / $b : 'Error'; break;
                 default: $resultado = 'Operación inválida';
-
             }
         }
 
@@ -29,4 +28,3 @@ class CalculadoraController extends Controller
     }
 
 }
-

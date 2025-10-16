@@ -5,7 +5,6 @@
 </head>
 <body>
 <h1>Calculadora</h1>
-
 <form method="POST" action="/calculadora">
     @csrf
     <input type="number" name="num1" required>
@@ -18,7 +17,6 @@
     </select>
     <button type="submit">Calcular</button>
 </form>
-
 @if ($resultado !== null)
     <h2>Resultado: {{ $resultado }}</h2>
 @endif
